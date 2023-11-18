@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3A5ED824-5476-437B-824F-C6B8DE67DD70"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C13B133A-C124-4952-8DCA-75FEAE79EBF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EggTimer/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "hardnessSelected(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C13B133A-C124-4952-8DCA-75FEAE79EBF8 - 3f4c688b83ace62"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.hardnessSelected(__C.UIButton) -&gt; ()"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wagnerrodrigues/Documents/ios-projects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "C13B133A-C124-4952-8DCA-75FEAE79EBF8 - 3f4c688b83ace45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EggTimer.ViewController.hardnessSelected(__C.UIButton) -&gt; ()"
+                  moduleName = "EggTimer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wagnerrodrigues/Documents/ios-projects/EggTimer-iOS13/EggTimer/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
